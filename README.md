@@ -12,5 +12,5 @@ To run the timer, just use ```python timer.py``` when in the same folder in a te
 
 #### Timer Screenshot
 
-[Timer Image](https://github.com/DanielPDWalker/basic-pomodoro-timer/blob/master/timer.jpg)
+![Timer Image](timer.JPG)
 
