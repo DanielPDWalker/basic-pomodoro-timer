@@ -10,5 +10,7 @@ A very simple pomodoro timer made with TKinter.
 
 To run the timer, just use ```python timer.py``` when in the same folder in a terminal session.
 
+#### Timer Screenshot
 
+[Timer Image](https://github.com/DanielPDWalker/basic-pomodoro-timer/blob/master/timer.jpg)
 
