@@ -10,9 +10,7 @@ A very simple pomodoro timer made with TKinter.
 - The "Start Timer" button obviously start the timer. This button is also disabled when the timer starts.
 - The "Reset" button just resets the timer back to default. (Re-enabling the "Start Timer" button).
 - The "Change Timer" button switches between you work timer and break timer. (The "Start Timer" button switches text as well).
-- The "Total Pomodoro Cycles" text and number below are keeping track of completed work cycles by reading and writing to save.py.
-  
-The timer also plays a few beeps at the end of a work cycle or break cycle.  
+- The "Total Pomodoro Cycles" text and number below are keeping track of completed work cycles by reading and writing to save.py. 
 
 To run the timer, just use ```python timer.py``` when in the same folder in a terminal session.
 
